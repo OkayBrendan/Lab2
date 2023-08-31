@@ -26,5 +26,5 @@ int main()
 
 	// Math
 	X = (-B / A);
-	cout << "\nThe answer is:\nx=" << X << endl;
+	cout << "\nThe answer is:\nx=" << X << "\n\nThank you! Have a good day. :)" << endl;
 }
